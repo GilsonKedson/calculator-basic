@@ -18,7 +18,7 @@ Finalizado!
 - [x] Divisão  
   
 ## Aplicação
-<img src="images/Foto da calculadora.png">
+<img src="images/calculadora.png">
 
 ## Autor
 Feito por Gilson Kedson.
