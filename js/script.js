@@ -5,7 +5,7 @@ function getData(data) {
     return data;
 }
 
-void function setResult(data) {
+function setResult(data) {
     let resultValue = RESULT_PANEL.innerText;
 
     if (data === "clean") {
